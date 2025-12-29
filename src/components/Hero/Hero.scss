@@ -1,0 +1,19 @@
+.hero {
+  height: 280px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+
+  h1 {
+    font-size: 36px;
+  }
+
+  .scroll {
+    margin-top: 15px;
+    font-size: 24px;
+  }
+}
